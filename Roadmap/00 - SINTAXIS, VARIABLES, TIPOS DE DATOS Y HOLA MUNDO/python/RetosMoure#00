@@ -1,0 +1,18 @@
+# https://www.python.org/
+# comentario en una linea
+"""
+Comentario en varias lineas 
+"""
+'''
+Comentario en varias lineas V2
+'''
+# Variable
+pinga = "Hola Mundo" #Str
+# Tipos de datos primitivos 
+Entero = 1 # Entero (int)
+Decimal = 1.5 # Decimal (float)
+Booleano = True # Booleano (bool)
+Booleano = False # Booleano (bool)
+pinga = "Hola Mundo" # String (str)
+# Imprimir en consola
+print("¡Hola python!")
